@@ -1,0 +1,15 @@
+{
+  "name": "painter",
+  "description": "types of paints",
+  "launch_path": "/index.html",
+  "icons": {
+    "512": "/imges/icon-512.png",
+    "128": "/imges/icon-128.png"
+  },
+  "developer": {
+    "name": "ASHISH BINDRA",
+    "url": "http://your-homepage-here.org"
+  },
+  "default_locale": "en",
+  "chrome": { "navigation": true }
+}
